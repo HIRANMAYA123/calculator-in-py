@@ -1,0 +1,2 @@
+owerview of the project-
+This project is a fundamental command line calculator,designed for simplicity n provides users with a clear menu to select standard arithmetic operations addition, subtraction, multiplication, and division and handles basic error conditions,such as division by zero and invalid input types.The primary goal was to create a clean,single-file application that is easy to execute.
