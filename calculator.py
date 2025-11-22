@@ -1,0 +1,6 @@
+print("Welcome to the swimple python calculator!")
+print("Please select your desired calculation:")
+print("1-Add")
+print("2-Subtract")
+print("3-Multiply")
+print("4-Divide")
