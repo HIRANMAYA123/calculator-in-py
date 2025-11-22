@@ -28,3 +28,9 @@ while True:
             else:
                 result=num1/num2
                 print(f"{num1}/{num2}={result}")
+        next_calculation=input("Do you want to perform another calculation?yes/no-")
+        if next_calculation.lower()=="no":
+            print("Thanks for using the calculator")
+            break
+    else:
+        print("Invalid Input-Please enter a choice between 1 and 4")
